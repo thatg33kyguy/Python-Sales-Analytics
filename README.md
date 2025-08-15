@@ -19,7 +19,7 @@ It includes:
 ## 🚀 How to Run
 
 ### 1️⃣ Run on Google Colab (No Installation Needed)
-Open and run the notebook directly in your browser:
+Open and run the notebook directly in your browser  :
 
 [![Open in Colab](https://colab.research.google.com/github/thatg33kyguy/PythonSalesAnalytics/blob/main/sales_analysis.ipynb)
 
