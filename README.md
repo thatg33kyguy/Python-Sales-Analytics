@@ -16,7 +16,7 @@ It includes:
 
 ### Option 1 — Google Colab (No Installation Needed)
 Click to open in Colab:  
-[Open in Colab](https://colab.research.google.com/github/thatg33kyguy/PythonSalesAnalytics/main/sales_analysis.ipynb)
+[Open in Colab](https://colab.research.google.com/github/thatg33kyguy/PythonSalesAnalytics/blob/main/sales_analysis.ipynb)
 
 ---
 
