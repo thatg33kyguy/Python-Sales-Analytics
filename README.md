@@ -21,7 +21,8 @@ It includes:
 ### 1️⃣ Run on Google Colab (No Installation Needed)
 Open and run the notebook directly in your browser  :
 
-[![Open in Colab](https://colab.research.google.com/github/thatg33kyguy/PythonSalesAnalytics/blob/main/sales_analysis.ipynb)
+[![Open in Colab]([https://colab.research.google.com/github/thatg33kyguy/PythonSalesAnalytics/blob/main/sales_analysis.ipynb](https://colab.research.google.com/github/thatg33kyguy/PythonSalesAnalytics/blob/main/sales_analysis.ipynb
+))
 
 ---
 
